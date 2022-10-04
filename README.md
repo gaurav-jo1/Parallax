@@ -1,4 +1,4 @@
-![Parallex_Scrolling](https://user-images.githubusercontent.com/93304640/156529741-2745a97a-dc0a-4852-877d-5e16540bfe00.png)
+![Parallax Scrolling](https://user-images.githubusercontent.com/93304640/193730034-8f87a39a-d9b7-443f-b042-52ce9d87b7b2.png)
 
 # Live site link ⬇️
 
